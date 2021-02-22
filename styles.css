@@ -45,10 +45,10 @@ h5{font-weight: 400;
   font-style: italic;
 }
 /*style of skills*/
-.Skills{ font-size: 1em;
+#Skills{ font-size: 1em;
 }
 /*style of education info */
-.Education{ font-size: 1em;
+#Education{ font-size: 1em;
 }
 /* style of contact links*/
-.contact{font-size: 1em}
+#contact{font-size: 1em}
